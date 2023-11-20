@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacmudzunga&label=Profile%20views&color=0e75b6&style=flat" alt="isaacmudzunga" /> </p>
 
-- 🔭 I’m currently working on [MyPortfolio](https://github.com/isaacmudzunga/Portfolio)
+- 🔭 I’m currently working on [SocialLedger](https://github.com/isaacmudzunga/SocialLedger)
 
-- 🌱 I’m currently learning **OOP, Relational Database, Web Development, Java, Javascript**
+- 🌱 I’m currently learning **Quality Assurance, Testing Frameworks, C#, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/isaacmudzunga](https://github.com/isaacmudzunga)
 
-- 💬 Ask me about **Fron-End > HTML/HTML5, CSS/CSS3, JS Back-End > JavaScript(Node.js, Express.js), Python(FastAPI), Java(Spring, Javalin), Database**
+- 💬 Ask me about **Software Quality Assurance Engineer > Test Automation, Data-Driven Testing, API Testing, GUI Testing C#(.NET Core, Web APIs, Package Management, Testing and Quality Assurance), Python(FastAPI, Unit Testing, Testing and Quality Assurance, Data Science), Java(Testing and Quality Assurance, Web Development, Persistence (Database Access), User Interface), Database**
 
 - 📫 How to reach me **isaacmudzunga2@gmail.com**
 
