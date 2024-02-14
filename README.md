@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋,I'm Isaac</h1>
-<h3 align="center">I know, somehow, that only when it is dark enough can you see the stars.</h3>
+<h3 align="center">I know, somehow, that only when it is dark enough you can see the stars.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacmudzunga&label=Profile%20views&color=0e75b6&style=flat" alt="isaacmudzunga" /> </p>
 
