@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacmudzunga&label=Profile%20views&color=0e75b6&style=flat" alt="isaacmudzunga" /> </p>
 
-- 🔭 I’m currently working on [SocialLedger](https://github.com/isaacmudzunga/SocialLedger)
+- 🔭 I’m currently working on [Building automation frameworks]
 
-- 🌱 I’m currently learning **Quality Assurance, Testing Frameworks, C#, Java**
+- 🌱 I’m currently learning more about **Automation Testing**
 
 - 💬 Ask me about **Software Quality Assurance Engineer > Test Automation, Data-Driven Testing, API Testing, GUI Testing C#(.NET Core, Web APIs, Package Management, Testing and Quality Assurance), Python(FastAPI, Unit Testing, Testing and Quality Assurance, Data Science), Java(Testing and Quality Assurance, Web Development, Persistence (Database Access), User Interface), Database**
 
