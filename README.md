@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Quality Assurance, Testing Frameworks, C#, Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/isaacmudzunga](https://github.com/isaacmudzunga)
-
 - 💬 Ask me about **Software Quality Assurance Engineer > Test Automation, Data-Driven Testing, API Testing, GUI Testing C#(.NET Core, Web APIs, Package Management, Testing and Quality Assurance), Python(FastAPI, Unit Testing, Testing and Quality Assurance, Data Science), Java(Testing and Quality Assurance, Web Development, Persistence (Database Access), User Interface), Database**
 
 - 📫 How to reach me **isaacmudzunga2@gmail.com**
