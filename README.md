@@ -23,8 +23,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</a> <a href="https://www.selenium.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getselenium/getselenium-icon.svg" alt="Selenium" width="40" height="40"/>
+</a> <a href="https://www.cucumber.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/getcucumber/getcucumber-icon.svg" alt="Cucumber" width="40" height="40"/>
 </a>
 
 
